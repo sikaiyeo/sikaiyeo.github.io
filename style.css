@@ -92,7 +92,8 @@
       font-family: 'Bakbak One', cursive;
 
       position: relative;
-      right: -17rem;
+      right: -11rem;
+      bottom: -5rem;
   }
 
   .contact-me-icon {
@@ -105,7 +106,7 @@
 
   .achievements-container {
     width: 80vw;
-    margin-left: 10vw;
+    margin-left: 28vw;
     height: 15rem;
 
     padding-top: 20px !important;
@@ -131,7 +132,7 @@
     height: 20vw;
 
     position: relative;
-    top: 0.65rem;
+    top: -11rem;
     right: -0.5rem;
 
     border-radius: 50%;
